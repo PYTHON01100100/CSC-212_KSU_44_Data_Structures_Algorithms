@@ -16,7 +16,7 @@ Repository: <https://github.com/PYTHON01100100/CSC-212_KSU_44>
 | عال 212 | – | <https://www.youtube.com/playlist?list=PLiOsrzh6MHoPTYRsBdFDJC9OmrhrZx9Kz> | <https://www.youtube.com/playlist?list=PLlEzIiCLpGVIJCXwAh-YCho7tzr4si63l> | |
 | 212CSC \|\|\| | د. سعيد كراش | <https://www.youtube.com/playlist?list=PLiOsrzh6MHoNmR8120FTkAWPFQLReu6j9> | ~~<https://www.youtube.com/playlist?list=PL-4ZNS3CJNdal8q_PhCHZdORrre04d9Om>~~ (deleted) | |
 | CSC 212 \| شرح | د. سعيد كراش | <https://www.youtube.com/playlist?list=PLiOsrzh6MHoN8VtQoX9TDKCtiHT9kIqhq> | ~~<https://www.youtube.com/playlist?list=PLm0BF3c1znF6w0uM6Db430Jn11HRlgOeI>~~ (deleted) | |
-| – | – | <https://www.youtube.com/playlist?list=PLiOsrzh6MHoNQPWur5Yp7_c3RjXd-hS2a> | – | |
+| CSC212-FAROUN | – | <https://www.youtube.com/playlist?list=PLiOsrzh6MHoNQPWur5Yp7_c3RjXd-hS2a> | – | |
 
 ### Other Resources (outside KSU)
 
